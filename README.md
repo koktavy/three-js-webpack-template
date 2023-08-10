@@ -1,2 +1,2 @@
-# camera-kit
-Camera Kit experiments
+# Three.js Webpack Template
+Copy into a new repo and `npm i`
